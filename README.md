@@ -1,2 +1,0 @@
-# quizWorld
-quiz
